@@ -92,7 +92,7 @@ Python and a code editor (e.g., VS Code) needed for development
 
 
 
-Download and install Olama from the official website (olama.com)
+## Download and install Olama from the official website (olama.com)
 
 
 
@@ -102,7 +102,8 @@ Installation involves downloading a zip file and running the app
 
 After installation, run models like llama 3.2 via CLI using commands such as:
 
-olama run llama 3.2
+### olama run llama 3.2
+in your Command
 
 
 
